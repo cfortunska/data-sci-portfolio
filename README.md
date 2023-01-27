@@ -12,7 +12,10 @@ Collection of projects completed for hobby, self-learning, and academic purposes
  Used NLP to create a wine recommender, based off wine descriptions written by tasters, of the top ten wines that are similar to your favorite wines. You can also find a dashboard I created in [Tableau](https://public.tableau.com/app/profile/cecylia.fortunska/viz/WineAroundtheWorld/WineAroundtheWorld) of top 50 wines under 20 dollars, top 50 wines in general, what regions have the most expensive wine, and which regions score the most points.
  
  [Web Scrapping - Yelp - Houston Venues - Where Do Couples Go Out?](https://github.com/cfortunska/data-sci-portfolio/tree/main/Yelp%20Web%20Scraping)  
- Scrapped data from yelp searching for Houston venues that couples consider 'romantic'. Also created a dashboard of all venue locations in [Tableau](https://public.tableau.com/app/profile/cecylia.fortunska/viz/Houston_restaurants/WhereDoCouplesGoonDatesinHouston).   
+ Scrapped data from yelp searching for Houston venues that couples consider 'romantic'. Also created a dashboard of all venue locations in [Tableau](https://public.tableau.com/app/profile/cecylia.fortunska/viz/Houston_restaurants/WhereDoCouplesGoonDatesinHouston). 
+  
+ [Minnesota Geochemistry - Mining for Cobalt and Nickel - Geopandas](https://github.com/cfortunska/data-sci-portfolio/tree/main/MN_Mining_Geopandas)  
+ Used pandas, numpy, and geopandas to clean a messy dataset and visually plot data to determine where the best prospects are. 
  
  ## Academic Micro Projects 
  
