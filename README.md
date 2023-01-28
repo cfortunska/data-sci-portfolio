@@ -14,7 +14,7 @@ Collection of projects completed for hobby, self-learning, and academic purposes
  [Web Scrapping - Yelp - Houston Venues - Where Do Couples Go Out?](https://github.com/cfortunska/data-sci-portfolio/tree/main/Yelp%20Web%20Scraping)  
  Scrapped data from yelp searching for Houston venues that couples consider 'romantic'. Also created a dashboard of all venue locations in [Tableau](https://public.tableau.com/app/profile/cecylia.fortunska/viz/Houston_restaurants/WhereDoCouplesGoonDatesinHouston). 
   
- [Minnesota Geochemistry - Mining for Cobalt and Nickel - Geopandas](https://github.com/cfortunska/data-sci-portfolio/tree/main/MN_Mining_Geopandas)  
+ [Geospatial-Geopandas-Minnesota Geochemistry - Mining for Cobalt and Nickel](https://github.com/cfortunska/data-sci-portfolio/tree/main/MN_Mining_Geopandas)  
  Used pandas, numpy, and geopandas to clean a messy dataset and visually plot data to determine where the best prospects are. After cleaning data and doing some visualization with geopandas a [Tableau](https://public.tableau.com/app/profile/cecylia.fortunska/viz/MinnesotaMiningProspects/NickelColbatProspects) dashboard was created to better visualize data.
  
  ## Academic Micro Projects 
